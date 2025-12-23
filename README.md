@@ -1,0 +1,1 @@
+Biomes, Bosses and Beings is a 1.20.1 forge modpack focused around those things. It has been a while since last updated and could defidently use some updates. If you have suggestions go ahead and submit them it the issue tracker.
